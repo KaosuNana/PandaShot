@@ -1,0 +1,1138 @@
+fileFormatVersion: 2
+guid: 1c393f1d923781d4cbb4288fb088fb7f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: EyeGrayLeft
+    21300004: EyeWhiteLeft
+    21300006: EyeLeft
+    21300008: EyeRight
+    21300010: EyeGrayRight
+    21300012: EyeWhiteRight
+    21300014: EarLeft
+    21300016: EarRight
+    21300018: MouthSmile
+    21300020: EyeBrowRight
+    21300022: EyeBrowLeft
+    21300024: Nose
+    21300026: GlassesLeft
+    21300028: GlassesRight
+    21300030: Hear
+    21300032: Body
+    21300034: MetalPlates
+    21300036: MetalPlatesHolder
+    21300038: JacketLeft
+    21300040: JacketRight
+    21300042: ArmUpperLeft
+    21300044: ArmLowerLeft
+    21300046: HeandLeft
+    21300048: ArmLowerRight
+    21300050: ArmUpperRight
+    21300052: HeandRight
+    21300054: JacketFurRight
+    21300056: JacketFurLeft
+    21300058: Hip
+    21300060: LegUpperLeft
+    21300062: LegLowerLeft
+    21300064: LegUpperRight
+    21300066: LegLowerRight
+    21300068: MetalRightLegBig
+    21300070: MetalRightLegSmall
+    21300072: ShoeLeft
+    21300074: ShoeRight
+    21300076: PandaLogo
+    21300078: PandaLogoGlow1
+    21300080: PandaLogoGlow2
+    21300082: PandaLogoGlow3
+    21300084: PandaLogoGlow4
+    21300086: PandaLogoGlow5
+    21300088: PandaLogoGlow6
+    21300090: PandaLogoGlow7
+    21300092: CapStripeRight
+    21300094: CapStripeLeft
+    21300096: WhiteCircle
+    21300098: PandaHSShadow
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 757
+        width: 248
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5651796, y: 0.15923059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1a6eea7a982949839623d0522b2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeGrayLeft
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 962
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a514296739376459bbe997859b5e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeWhiteLeft
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 910
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6524de63a89d4291444de355c9e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeLeft
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 872
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe55fcbdd4e9d43a6d9d59b7f73e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeRight
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 871
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc788eec03117f45ad30a6a6f81ffca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeGrayRight
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 806
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058bf23a5d7c4a4590e2bde1076a6e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeWhiteRight
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 754
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8ec51a69a94249b41e8218607d91c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarLeft
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 75
+        height: 84
+      alignment: 9
+      pivot: {x: 0.65496093, y: 0.37201872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078036496dea91242a4a9a1205735cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarRight
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 663
+        width: 82
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4608505, y: 0.48172554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953c09085abcde4bb3116682e4f382d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouthSmile
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 663
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff146feccbdaf664c95b676c2a291f9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBrowRight
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 742
+        width: 66
+        height: 14
+      alignment: 9
+      pivot: {x: 0.47847262, y: 0.7334159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a5ffa95d625034abc4b3f8848a6110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBrowLeft
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 728
+        width: 58
+        height: 13
+      alignment: 9
+      pivot: {x: 0.51959753, y: 0.6530104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762060753649dc04e98c5664a9c9d967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nose
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 730
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def57c1e0d2221a4eb0d3544218691d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassesLeft
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 729
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6196107948a120345b934f57246752ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassesRight
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 728
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93388d820be4a940a97369725fd3a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hear
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 679
+        width: 58
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47029167, y: 0.26537177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4fe4d750223947b97931584fcda59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 330
+        height: 424
+      alignment: 9
+      pivot: {x: 0.47898504, y: 0.199751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18897992339fc2c4991cbab8b71a79bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalPlates
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 277
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.45987535, y: 0.7206852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0492fdd58218040bf1510363b541a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalPlatesHolder
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 242
+        width: 121
+        height: 23
+      alignment: 9
+      pivot: {x: 0.034755234, y: 0.19238082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288c550cb835b3241881dc5e258d7847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JacketLeft
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 326
+        width: 99
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aefb783a37fbd4ab3acc7a1300d6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JacketRight
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 271
+        width: 195
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d8132dc03b1a84eb527587083b87e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmUpperLeft
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 783
+        width: 95
+        height: 239
+      alignment: 9
+      pivot: {x: 0.57492226, y: 0.80877966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4691ddb1ac7088b449952c38239cbf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmLowerLeft
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 617
+        width: 125
+        height: 163
+      alignment: 9
+      pivot: {x: 0.58312696, y: 0.8048792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2042711a48cd984c89d43e0a56b7dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeandLeft
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 531
+        width: 98
+        height: 84
+      alignment: 9
+      pivot: {x: 0.50839174, y: 0.832853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624f2097bcbbdf04c938ffa255e49717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmLowerRight
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 852
+        width: 133
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5441582, y: 0.7710654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480421427b0f6a418f4658892193935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmUpperRight
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 601
+        width: 110
+        height: 248
+      alignment: 9
+      pivot: {x: 0.46714312, y: 0.76960826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db0178b3ae1dcb41bc690b453159c16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeandRight
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 492
+        width: 135
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5639599, y: 0.75601196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d363cacb1f609546ace4cd02d00383d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JacketFurRight
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 820
+        width: 69
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d2a82fd453bc4e94b1a898e348a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JacketFurLeft
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 676
+        width: 55
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289a8fd0de3ba0468fb548ffcd74221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hip
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 356
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49067166, y: 0.59140897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c3a20ebcc4a0d4eb67032ab696b901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegUpperLeft
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 93
+        width: 152
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5343003, y: 0.7144506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9284beb6cf577dc429a2a6d6cd77ed19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegLowerLeft
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 66
+        width: 149
+        height: 172
+      alignment: 9
+      pivot: {x: 0.45844448, y: 0.75919056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8806d49f893c564395692b0f536b50f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegUpperRight
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 94
+        width: 197
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59081286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff09928f117944d80d5460534fdc5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegLowerRight
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 71
+        width: 159
+        height: 168
+      alignment: 9
+      pivot: {x: 0.49221167, y: 0.62162447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299896f702ae2c04ea0fbcd7421ba146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalRightLegBig
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 276
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcbaafed217e6e4ab7be78dee41cef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalRightLegSmall
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 239
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda0398d5fba3e46b62d178acb61737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShoeLeft
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 319
+        width: 220
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7121585, y: 0.5883253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ffe6fe45143224f8c020af2d0e949a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShoeRight
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 403
+        width: 143
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6097374, y: 0.69182783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcec69b094eef2458a4ca9c79c0987d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogo
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 244
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016dae997f58814ca610ad910e3e6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 298
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc686e9133746e4e8c41c5bbb03ee00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 284
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50894e16bb993354580afbfd572257be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 280
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadfc8d7d7a49ea4db51917302f8230d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 279
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c854cc188ca69549a0f29bb697b0f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow5
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 282
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcfb9a0c5ec1b2458b7aa78d7b45051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 287
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c1acbf5060c246bb6ee1963750df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaLogoGlow7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 287
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d4826b8611d74e98e1c095af1a9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapStripeRight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 169
+        height: 36
+      alignment: 9
+      pivot: {x: 0.071408026, y: 0.4902333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8623b899317c4442a7a6cd164d7ef80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapStripeLeft
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 83
+        width: 155
+        height: 36
+      alignment: 9
+      pivot: {x: 0.92193425, y: 0.363263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388c45138440fcd46acd65102d5b5cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCircle
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab673dd9f8ed854fb8f7d78f67063e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaHSShadow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 372
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ca5416acf72ab428e5eca9a02a4d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

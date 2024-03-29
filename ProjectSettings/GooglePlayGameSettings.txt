@@ -1,0 +1,6 @@
+lastUpgrade=00926
+proj.AppId=818268173256
+proj.ConstantsClassName=GPconstants
+and.ResourceData=%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e818268173256%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_100_kills%22%3eCgkIyOfVpOgXEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_500_kills%22%3eCgkIyOfVpOgXEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1000_kills%22%3eCgkIyOfVpOgXEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_full_metal_jacket%22%3eCgkIyOfVpOgXEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_weapon_master%22%3eCgkIyOfVpOgXEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_global_score%22%3eCgkIyOfVpOgXEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_max_stage%22%3eCgkIyOfVpOgXEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true

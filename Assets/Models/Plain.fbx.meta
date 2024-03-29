@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 7bf1d1fc3686843a4959b9c5399fd85e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Backdrop Item
+    100002: Backdrop Item (2)
+    100004: Background images
+    100006: Guns_0
+    100008: Guns_1
+    100010: Guns_2
+    100012: Guns_3
+    100014: Guns_4
+    100016: Guns_5
+    100018: Guns_6
+    100020: Guns_A
+    100022: Guns_B
+    100024: //RootNode
+    100026: Plane
+    100028: Plane_BotomParts
+    100030: Propeler
+    100032: Propeler_run
+    100034: Texture Group
+    100036: wheels
+    400000: Backdrop Item
+    400002: Backdrop Item (2)
+    400004: Background images
+    400006: Guns_0
+    400008: Guns_1
+    400010: Guns_2
+    400012: Guns_3
+    400014: Guns_4
+    400016: Guns_5
+    400018: Guns_6
+    400020: Guns_A
+    400022: Guns_B
+    400024: //RootNode
+    400026: Plane
+    400028: Plane_BotomParts
+    400030: Propeler
+    400032: Propeler_run
+    400034: Texture Group
+    400036: wheels
+    2300000: Guns_0
+    2300002: Guns_1
+    2300004: Guns_2
+    2300006: Guns_3
+    2300008: Guns_4
+    2300010: Guns_5
+    2300012: Guns_6
+    2300014: Plane
+    2300016: Plane_BotomParts
+    2300018: Propeler
+    2300020: Propeler_run
+    2300022: wheels
+    3300000: Guns_0
+    3300002: Guns_1
+    3300004: Guns_2
+    3300006: Guns_3
+    3300008: Guns_4
+    3300010: Guns_5
+    3300012: Guns_6
+    3300014: Plane
+    3300016: Plane_BotomParts
+    3300018: Propeler
+    3300020: Propeler_run
+    3300022: wheels
+    4300000: Plane
+    4300002: Propeler
+    4300004: Propeler_run
+    4300006: wheels
+    4300008: Plane_BotomParts
+    4300010: Guns_0
+    4300012: Guns_1
+    4300014: Guns_2
+    4300016: Guns_3
+    4300018: Guns_4
+    4300020: Guns_5
+    4300022: Guns_6
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00499999989
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
